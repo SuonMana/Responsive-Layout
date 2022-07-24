@@ -1,0 +1,77 @@
+@media only screen and (min-width: 768px) {
+    body{
+        background-color: green ;
+    }
+
+    nav{
+        opacity: 75%;
+    }
+
+    header {
+        height: 400px;
+    }
+
+    main{
+        height: 1000px;
+    }
+
+    section{
+        width:75%;
+        float: left;
+        height: 100%;
+    }
+
+    aside{
+        width:25%;
+        float: right;
+        height: 100%;
+    }
+
+
+    .container {
+        height: 400px;
+        width: 90%;
+        margin: 25px auto;
+    }
+
+    .form-desc{
+        width: 50%;
+        float: left;
+        height: 100%;
+    }
+
+    .form-wrapper{
+        width: 50%;
+        float: right;
+        height: 100%;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 1268px) {
+    body{
+        background-color: darkblue;
+    }
+
+    nav {
+        opacity:25% ;
+    }
+
+    section {
+        width: 60%;
+    }
+
+    aside {
+        width: 40%;
+    }
+}

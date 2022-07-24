@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgoldenrodyellow ;
+}
+
+
+header {
+    height: 500px;
+    background-color: lightblue;
+}
+
+nav{
+    height: 100px;
+    background-color: beige;
+}
+
+.banner {
+    height: 80%;
+    background-color:lightcoral;
+}
+
+
+
+main {
+    height: 2000px;
+}
+
+section {
+    height:50%;
+    background-color:lightgreen;
+}
+
+aside {
+    height:50%;
+    background-color:darkgoldenrod;
+}
+
+footer {
+    height:100px;
+    background-color:violet;
+}
+
+.container {
+    height:600px;
+    background-color:aquamarine;
+}
+
+
+.form-desc{
+    height: 30%;
+    background-color: blueviolet;
+}
+
+.form-wrapper{
+    height: 30%;
+    background-color:beige;
+}
